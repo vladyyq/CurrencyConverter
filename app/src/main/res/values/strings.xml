@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Конвертер валют</string>
+    <string name="amount">Сумма</string>
+    <string name="from">Из</string>
+    <string name="to">В</string>
+    <string name="result">Результат</string>
+    <string name="retry">Повторить</string>
+    <string name="swap">Поменять местами</string>
+</resources>
